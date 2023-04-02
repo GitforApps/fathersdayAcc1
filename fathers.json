@@ -1,0 +1,8 @@
+{
+  "AdsController": {
+    "admobBanner": "ca-app-pub-8500412059708286/5096570895",
+    "admobInterstitial": "ca-app-pub-8500412059708286/3882765418",
+    "admobNative": "ca-app-pub-8500412059708286/4913572219",
+    "admobAppOpen": "ca-app-pub-8500412059708286/3499622031"
+  }
+}
